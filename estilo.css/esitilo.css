@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    
+}
+
+.top{
+    background-color: azure;
+    border: solid 1px rgb(0, 2, 5);
+    color: yellow;
+}
+
+/* el col-lg-4 manipulas el tamaño
+   con mx-auto lo centras, tambian lo podes mover de lado a lado
+   y con my lomoves un poco asi abajo 
+*/
+   
